@@ -1,0 +1,22 @@
+.tableClassMain {
+  width: 100%;
+}
+
+.tableClass {
+  width: 100%;
+  border-bottom: 1px solid black;
+}
+
+.weekDateClass {
+  width: 10%;
+}
+
+.timeSlotClass {
+  width: 90%;
+  flex-wrap: wrap;
+}
+.dayRowClass{
+  color: brown;
+  font-size: 20px;
+  font-weight: 500;
+}
